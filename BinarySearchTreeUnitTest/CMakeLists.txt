@@ -1,0 +1,2 @@
+add_library(bst_test BinarySearchTreeUnitTest.cpp)
+target_link_libraries(bst_test PUBLIC gtest_main)

@@ -1,0 +1,12 @@
+/lib
+/_deps
+**/CMakeFiles
+/bin
+CMakeCache.txt
+cmake_install.cmake
+AVLBenchmark
+AVLUnitTesting
+BSTBenchmark
+BSTUnitTesting
+**/*.a
+
